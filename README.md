@@ -1,0 +1,1 @@
+This repository is a step-by-step walkthrough of building an SAPUI5 application deployed on SAP Business Technology Platform (BTP). It covers key UI5 concepts like views, controllers, data binding, routing, and deployment to BTP via the SAP Business Application Studio or local tools.
