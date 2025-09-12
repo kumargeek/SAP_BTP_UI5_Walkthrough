@@ -1,6 +1,6 @@
 # 🚀 SAP BTP UI5 Walkthrough
 
-👋 Welcome! This repository is a **step-by-step walkthrough** of building an **SAPUI5 application** deployed on **SAP Business Technology Platform (BTP)**.
+👋 Welcome! This repository is a **step-by-step walkthrough** of building an **SAPUI5 application** deployed on **SAP Business Technology Platform (BTP)** with **UI5**.
 
 🔍 We explore essential UI5 concepts including:
 
